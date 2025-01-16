@@ -3,7 +3,7 @@ Implementación del juego "Adivina el número secreto".
 
 # Descripción
 
-El Juego de Adivinar el Número Secreto es una aplicación interactiva diseñada para desafiar a los usuarios a adivinar un número generado aleatoriamente entre 1 y 15. Este juego prueba la intuición y capacidad del usuario para deducir el número correcto a partir de pistas proporcionadas. Cada intento se registra y se da una indicación sobre si el número secreto es mayor o menor que el número ingresado, lo que permite al usuario ajustar sus conjeturas.
+El Juego de Adivinar el Número Secreto es una aplicación interactiva diseñada para desafiar a los usuarios a adivinar un número generado aleatoriamente entre 1 y 50. Este juego prueba la intuición y capacidad del usuario para deducir el número correcto a partir de pistas proporcionadas. Cada intento se registra y se da una indicación sobre si el número secreto es mayor o menor que el número ingresado, lo que permite al usuario ajustar sus conjeturas.
 
 # Funcionalidades
 
